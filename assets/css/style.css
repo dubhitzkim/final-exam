@@ -1,0 +1,277 @@
+nav{
+	background-color:white ;
+	color: black;
+}
+.nav-bar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.links ul li{
+	display: inline;
+}
+.links ul li a{
+	color: black;
+	text-decoration: none;
+	padding: 0 15px 0 15px;
+}
+.links{
+	margin-top: 15px;
+}
+.links i{
+	padding-right: 10px;
+}
+.links .fa-home{
+	color: #faa41a;
+}
+.logo{
+	background-image: url('../img/logo.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 44px;
+	width: 75px;
+}
+.home{
+	background-image: url('../img/bghome.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.info h1{
+	color: white;
+	text-decoration: none;
+}
+.info h4{
+	color: white;
+}
+.info h4 span{
+	color: #faa41a;
+}
+.info{
+	padding-top: 100px;
+}
+.picture{
+	background-image: url('../img/me.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 70vh;
+	margin-top: -230px;
+	margin-left: 755px;
+}
+.home .hireme{
+	background-color: #faa41a;
+	margin-top: -300px;
+}
+.home .view{
+	margin-top: -300px;
+	margin-left: 50px;
+}
+.about{
+	height: 933px;
+	padding-top: 40px;
+}
+.disp{
+	background-image: url('../img/grad.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 80vh;
+	margin-top: 30px;
+}
+.description ul li{
+	font-size: 20px;
+	padding: 35px 0 35px 0;
+	list-style: none;
+}
+.fa-caret-right{
+	color: #faa41a;
+}
+.facts{
+	padding-left: 25px;
+}
+.shows{
+	padding-top: 20px;
+}
+.achievement{
+	padding-left: 25px;
+	color: #faa41a;
+}
+.resume{
+	background-color: #333333;
+	height: 933px;
+	padding-top: 40px;
+}
+.resume h1{
+	color: white;
+}
+.summary{
+	color: white;
+	padding-top: 50px;
+}
+.name{
+	color: #faa41a;
+	list-style: none;
+}
+.namedes{
+	color: white;
+	list-style: none;
+	padding-left: 40px;
+}
+.location{
+	color: white;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.education{
+	color: white;
+	padding-top: 50px;
+}
+.ICT{
+	color: #faa41a;
+}
+.year1{
+	color: white;
+	list-style: none;
+	padding-left: 40px;
+}
+.school{
+	color: white;
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.text{
+	color: white;
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.national{
+	color: #faa41a;
+	padding-top: 90px;
+}
+.year2{
+	color: white;
+	list-style: none;
+	padding-left: 40px;
+}
+.school2{
+	color: white;
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.text2{
+	color: white;
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.IT{
+	color: #faa41a;
+	padding-top: 50px;
+}
+.year3{
+	color: white;
+	list-style: none;
+	padding-left: 40px;
+}
+.school3{
+	color: white;
+	list-style: none;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.services{
+	background-image: url('../img/bghome.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	padding-top: 40px;
+}
+.services h1{
+	color: white;
+}
+.pic1{
+	background-image: url('../img/pic1.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 180px;
+}
+.pic2{
+	background-image: url('../img/pic2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 200px;
+}
+.pic3{
+	background-image: url('../img/pic3.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 180px;
+}
+.pic4{
+	background-image: url('../img/pic4.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 180px;
+}
+.pic1 h4{
+	color: white;
+	padding-top: 220px;
+}
+.pic2 h4{
+	color: white;
+	padding-top: 200px;
+	padding-left: 15px;
+}
+.pic3 h4{
+	color: white;
+	padding-top: 220px;
+	padding-left: 25px;
+}
+.pic4 h4{
+	color: white;
+	padding-top: 220px;
+	padding-left: 15px;
+}
+.portfolio{
+	background-color: #faa41a;
+	height: 100vh;
+	padding-top: 40px;
+}
+.portfolio h1{
+	color: white;
+}
+.portpic{
+	background-image: url('../img/layer5.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 40vh;
+	margin-top: 150px;
+	margin-left: 130px;
+}
+.contact{
+	background-color: #111111;
+	height: 100vh;
+	padding-top: 40px;
+}
+.contact h1{
+	color: white;
+}
+.location1 h4{
+	padding: 50px 0 0px 0;
+	color: white;
+}
+.location1{
+	padding-top: 90px;
+	padding-left: 400px;
+}
+.location1 h4 span{
+	color: #faa41a;
+
+
+}
